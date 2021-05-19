@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.nav-link{
+	margin-right: 15px;
+  background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(214,178,210,1) 12%, rgba(148,187,233,1) 100%);
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+}
+.navbar-brand{
+  background: rgb(238,174,202);
+  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(214,178,210,1) 12%, rgba(148,187,233,1) 100%);
+	letter-spacing: 0.5px;
+}
+h2{
+	color:black;
+  background: rgb(238,174,202);
+background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(214,178,210,1) 12%, rgba(148,187,233,1) 100%);
+	letter-spacing: 0.5px;
+	font-family: sans-serif;
+}
